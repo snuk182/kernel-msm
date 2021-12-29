@@ -1,8 +1,10 @@
 VERSION = 3
 PATCHLEVEL = 18
 SUBLEVEL = 120
-EXTRAVERSION =
+EXTRAVERSION = -perf-g764584c
 NAME = Diseased Newt
+ARCH=arm
+CROSS_COMPILE=/home/snuk182/a66/los18.1/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9/bin/arm-linux-androideabi-
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
